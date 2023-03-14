@@ -1,0 +1,32 @@
+.a{width: 310px;
+    height: 500px;
+    background-color: aliceblue;
+    text-align: center;
+    position: relative;
+    z-index: 1;
+    top:0px;
+    border-top-left-radius: 20px;
+    border-bottom-left-radius:20px;}
+button{ border-radius: 50px;
+    background-color: brown;
+    height: 30px;}
+.b{ width: 310px;
+    height: 500px;
+    background-color: brown;
+    text-align: center;
+    position: relative;
+    top: -527px;
+    left: 300px;
+    z-index: 0;
+    border-top-right-radius: 20px;
+    border-bottom-right-radius:20px;
+    color: white;}
+h1{font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding-top: 50px;}
+.d{width: 610px;
+height: 500px;
+box-shadow: 5px 5px 10px 5px black;
+position: relative;
+left: 300px;
+border-radius: 20px;}
+body{background-color: blueviolet;}
